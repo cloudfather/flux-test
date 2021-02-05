@@ -16,4 +16,4 @@ spec:
     spec:
       containers:
       - name: hello
-        image: hhemied/flux-test:hellov1.1
+        image: hhemied/flux-test:hellov1.0
